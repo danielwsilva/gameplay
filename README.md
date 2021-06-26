@@ -13,18 +13,8 @@
 </p>
 
 <h1 align="center">
-  <img src="./src/assets/gameplay.gif"><br> 
+  <img src="./src/assets/gameplay.gif" width="300px"><br> 
 </h1>
-
- ## 🏁 Tópicos
-
-<p>
-  👉<a href="#-sobre-o-projeto" style="text-decoration: none; "> Sobre</a> <br/>
-  👉<a href="#-como-executar-o-projeto" style="text-decoration: none"> Como executar</a> <br/>
-  👉<a href="#-tecnologias" style="text-decoration: none"> Tecnologias</a> <br/>
-  👉<a href="#-autor" style="text-decoration: none"> Autor</a> <br/>
-  👉<a href="#user-content--licença" style="text-decoration: none"> Licença</a>
-</p>
 
 ## 💻 Sobre o projeto
 
@@ -79,7 +69,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - React Native Share
 - Deep Link
 
-> Veja o arquivo [package.json](https://github.com/danielwsilva/mr-referee-mobile/blob/main/package.json)
+> Veja o arquivo [package.json](https://github.com/danielwsilva/gameplay/blob/main/package.json)
 
 #### **Utilitários**
 
@@ -106,6 +96,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com :satisfied: por Daniel Wallacec 👋🏽 [Entre em contato!](https://www.linkedin.com/in/daniel-wallace-1b9280b2/)
+Feito com :satisfied: por Daniel Wallace 👋🏽 [Entre em contato!](https://www.linkedin.com/in/daniel-wallace-1b9280b2/)
 
 ---
